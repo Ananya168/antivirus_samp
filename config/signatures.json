@@ -1,0 +1,22 @@
+{
+    "suspicious_patterns": [
+        "malicious_code_pattern",
+        "virus_signature_123",
+        "trojan_marker",
+        "EXECUTE_SHELLCODE",
+        "SYSTEM_COMPROMISE"
+    ],
+    "suspicious_extensions": [
+        ".exe",
+        ".bat",
+        ".cmd",
+        ".ps1",
+        ".vbs"
+    ],
+    "heuristic_patterns": [
+        "format C:",
+        "rm -rf",
+        "del /f",
+        "shutdown"
+    ]
+}
