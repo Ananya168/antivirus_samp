@@ -1,0 +1,2 @@
+QUARANTINE|2025-11-08 20:30:28.631266|samples\network_test.py|quarantine\20251108_203028_47c37453c62e4c326b6de1474576cc58_network_test.py|Virus detected
+QUARANTINE|2025-11-08 20:48:59.290915|samples\test_virus_sample.py|quarantine\20251108_204859_30f9e3408c351376418a643c1786e70c_test_virus_sample.py|Virus detected
